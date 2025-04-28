@@ -1,4 +1,4 @@
-# async-ip-rotator
+# async-ip-rotator-archive
 
 Inspired by [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator/tree/main) but async.
 
